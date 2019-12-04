@@ -17,3 +17,7 @@ Gradient Boosted Decision Trees algorithm for time series forcasting using XGBoo
 * [Hourly Time Series Forecasting using XGBoost - Kaggle](https://www.kaggle.com/robikscube/tutorial-time-series-forecasting-with-xgboost)
 * [Forecasting Markets using eXtreme Gradient Boosting (XGBoost)](https://blog.quantinsti.com/forecasting-markets-using-extreme-gradient-boosting-xgboost/)
 * [Predicting the number of London Fire Brigade Call outs using seasonal patterns](https://www.jpytr.com/post/time-series-with-gradient-boosted-models/)
+
+
+#### Future improvements
+* Check efectivness of ARIMA models [Kaggle notebook](https://www.kaggle.com/praneethji/bitcoin-price-prediction-with-arima)
