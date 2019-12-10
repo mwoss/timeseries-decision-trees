@@ -1,4 +1,4 @@
-# Forcasting time series data with Gradient Boosted Decision Trees (xgboost) and ETS models
+## Forcasting time series data using Gradient Boosted Decision Trees and ETS models
 Gradient Boosted Decision Trees algorithm for time series forcasting using XGBoost library
 ## Datasets
 #### List of all dataset used for learning/research process:
