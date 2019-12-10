@@ -1,4 +1,4 @@
-# Cryptocurrency prediction using Gradient Boosted Decision Trees
+#FOcasting time series data with Gradient Boosted Decision Trees (xgboost) and ETS models
 Gradient Boosted Decision Trees algorithm for time series forcasting using XGBoost library
 ## Datasets
 #### List of all dataset used for learning/research process:
